@@ -1,0 +1,2 @@
+- Ingat, function range(a,b) dimulai dari angka a dan berhenti tepat sebelum angka berhenti
+- Parameter ketiga daru function range adalah berapa "leap" yang akan dilakukan dari perulangan yang akan dilakukan
